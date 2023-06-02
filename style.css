@@ -1,0 +1,57 @@
+body{
+    background-color: lightgrey
+}
+.table1
+{
+    font-family: cursive;
+}
+.link:hover
+{
+    background-color: lightblue;
+}
+.link:active a
+{
+    color: red;
+}
+.link a
+{
+    color: brown;
+}
+.header
+{
+  float: center;
+  text-align: center;
+
+}
+.tableDesign
+{
+    background-color: black;
+    color: white;
+}
+.intro
+{
+    font-family: helvetica;
+}
+.things
+{
+    margin-left: 800px;
+}
+.trail
+{
+    height: 300px;
+    width: 500px;
+    float: left;
+    margin-left: 30px
+}
+.squirrel
+{
+    height: 300px;
+    width: 500px;
+    float: right;
+    margin-right: 30px
+
+}
+.about
+{
+    text-align: center;
+}
